@@ -3,7 +3,6 @@ title: Course User's Guide
 course: SLU SOC5050 - Quantitative Analysis
 semester: FL2016
 author: Christopher Prener, PhD
-date: 2016-09-04 13:00:00 (GMT-06:00) Central Time (US & Canada)
 tags:
 ---
 
@@ -14,4 +13,6 @@ As outlined in the [syllabus](https://github.com/slu-soc5050/Core-Documents/blob
 ## Contents
   * [Cover Sheet](https://github.com/slu-soc5050/Core-Documents/blob/master/UserGuide/00_CoverPage.md)
 
-  1. Introduction
+  1. [Introduction](https://github.com/slu-soc5050/Core-Documents/blob/master/UserGuide/01_Introduction.md)
+  2. [Protecting Your Work](https://github.com/slu-soc5050/Core-Documents/blob/master/UserGuide/02_ProtectingYourWork.md)
+  
