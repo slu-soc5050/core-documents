@@ -33,6 +33,15 @@ students in the social sciences struggle with statistics at first. It is normal 
 ### An Apple a Day
 Being able to walk away from an assignment for a day requires excellent time management. If you are waiting until the night before or the day of an assignment’s due day to begin it, you give yourself little room for errors. I recommend approaching this course in bite size chuncks - a little each day. The most successful students do not do all of their reading, homework, and studying in a single sitting. I find that this approach not only creates unnecessary anxiety around assignments, it also dramatically limits the amount of course material you can absorb. Keep in mind that I expect the *median* student to spend approximately six hours on work for this class each week (twice the amount of in-class time).
 
+A sample approach to the class might look something like this:
+  - Monday: class
+  - Tuesday: finish lab
+  - Wednesday: Start problem set
+  - Thursday: Finish problem set
+  - Friday: First reading
+  - Saturday: Second reading
+
+
 ### Reading with Purpose
 The book and article **reading assignments** for this course are
 different from most of the other reading you will do in your graduate program because they are often very technical. Students who are most successful in this course read twice. Read the first time to expose yourself to the material, then take a break from the reading. During this first read, I don’t recommend trying to complete the example problems or programming examples. Focus on the *big picture* - what are the concepts and ideas that these readings introduce?
@@ -86,7 +95,7 @@ semester. Some may be file types that you have come across before.
 Throughout the semester, I will give you examples both in lecture slides and in an example do-file. Examples in lectures and course documents can be easily identified by their use of the `typewriter typeface`:
 
 ```Stata
-
+. summarize mpg
     Variable |        Obs        Mean    Std. Dev.       Min        Max
 -------------+---------------------------------------------------------
          mpg |         74     21.2973    5.785503         12         41
