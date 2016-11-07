@@ -2,11 +2,13 @@
 
 ### Repository Contents
 This repository contains files for:
-  - reading-list.pdf
-  - syllabus.pdf
-  - user-guide.pdf
-  - LICENSE.md
-  - README.md
+  - `/finalProject` - rubrics for final paper and presentation
+  - `3600MorrisseySchedule.pdf`
+  - `reading-list.pdf`
+  - `syllabus.pdf`
+  - `user-guide.pdf`
+  - `LICENSE.md`
+  - `README.md`
 
 There are three core documents for this course. The **Syllabus** sets out core expectations and policies for the course. The **Reading List** contains topics, readings (both required and optional), and assignment due dates for each week. These two documents spell out what is required for this course. The **User’s Guide** is a companion document that is written with the aim of helping you be successful in this course. The idea behind a course User’s Guide is to create a reference for many of the intangible, subtle or disparate skills and ideas that contribute to being a successful researcher. All course documents are available in the `Core-Documents` repository on [GitHub](https://github.com/slu-soc5050/Core-Documents).
 
