@@ -1,4 +1,4 @@
-Copyright (c) 2016 [Christopher G. Prener](http://chrisprener.net)
+Copyright (c) 2016-2017 [Christopher G. Prener, Ph.D.](https://chris-prener.github.io)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
