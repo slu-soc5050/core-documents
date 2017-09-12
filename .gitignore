@@ -40,3 +40,12 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# R files #
+###########
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.dcf
+*.ttc
