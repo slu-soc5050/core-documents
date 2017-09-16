@@ -1,9 +1,11 @@
-# Core-Documents (`sources` branch)
-=================
+Core-Documents (`sources` Branch) <img src="https://raw.githubusercontent.com/slu-soc5050/Core-Documents/sources/soc5050LogoSm.png" align="right" />
+===========================================================
 
 ### Repository Contents
 This repository contains files for:
-  - `Week-01` - jotter source content
+  - `Week-01/` - jotter source content
+  - `Week-02/` - jotter source content
+  - `soc5050LogoSm.png` - course logo
   - `.gitignore`
   - `LICENSE.md`
   - `README.md`
