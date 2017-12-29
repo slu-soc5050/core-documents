@@ -1,5 +1,6 @@
 Core-Documents <img src="https://raw.githubusercontent.com/slu-soc5050/Core-Documents/sources/soc5050LogoSm_v2.png" align="right" />
 ===========================================================
+![](https://img.shields.io/badge/semester-Fall%2C%202017-blue.svg) ![](https://img.shields.io/badge/release-updated-brightgreen.svg) ![](https://img.shields.io/github/last-commit/google/skia.svg)
 
 ### Repository Contents
 This repository contains files for:
